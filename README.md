@@ -7,7 +7,7 @@
 
 - 📫 You can contact me through the following email: **taiveyonshaw@gmail.com or shawt6@wwu.edu**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Profile links to other websites:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/taiveyon shaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taiveyon shaw" height="30" width="40" /></a>
 <a href="https://kaggle.com/taiveyonshaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="taiveyonshaw" height="30" width="40" /></a>
