@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋! My name is Taiveyon Shaw</h1>
-<h3 align="center">I am a jr. Web Developer and a Data Scientist</h3>
+<h3 align="center">I am a jr. Web Developer and a Data Scientist!</h3>
 
 - 🔭 I’m currently working on creating a **Portfolio Website**
 
