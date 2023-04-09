@@ -1,9 +1,9 @@
 <h1 align="center">Hello👋! My name is Taiveyon Shaw</h1>
 <h3 align="center">I am a jr. Web Developer and a Data Scientist!</h3>
 
-- 🔭 I’m currently working on creating a **Portfolio Website**
+- 🔭 I’m currently working on creating a **Portfolio Website.**
 
-- 🌱 I’m currently learning **React, mongodb, next.js, pytorch, and neural network**
+- 🌱 I’m currently learning **React, mongodb, next.js, pytorch, and neural network.**
 
 - 📫 You can contact me through the following email: **taiveyonshaw@gmail.com or shawt6@wwu.edu**
 
