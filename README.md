@@ -9,7 +9,7 @@
 
 <h3 align="left">Profile links to other websites:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/taiveyon shaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taiveyon shaw" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/taiveyonshaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taiveyon shaw" height="30" width="40" /></a>
 <a href="https://kaggle.com/taiveyonshaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="taiveyonshaw" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/taiveyonshaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="taiveyonshaw" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/taiveyonshaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="taiveyonshaw" height="30" width="40" /></a>
