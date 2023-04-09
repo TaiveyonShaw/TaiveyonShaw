@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, mongodb, next.js, pytorch, and neural network.**
 
-- 📫 You can contact me through the following email: **taiveyonshaw@gmail.com or shawt6@wwu.edu**
+- 📫 You can me email through: **taiveyonshaw@gmail.com or shawt6@wwu.edu**
 
 <h3 align="left">Profile links to other websites:</h3>
 <p align="left">
@@ -17,6 +17,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+- SCM:
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
