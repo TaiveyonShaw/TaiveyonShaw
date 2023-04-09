@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **React, mongodb, next.js, pytorch, and neural network**
 
-- 📫 How to reach me **taiveyonshaw@gmail.com or shawt6@wwu.edu**
-
-- ⚡ Fun fact **I think I am funny**
+- 📫 You can contact me through the following email: **taiveyonshaw@gmail.com or shawt6@wwu.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
