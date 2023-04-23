@@ -7,16 +7,13 @@
 
 - 📫 You can me email through: **taiveyonshaw@gmail.com or shawt6@wwu.edu**
 
-<h3 align="left">Profile links to other websites:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
-    <h4>LinkedIn:</h4>
     <a href="https://linkedin.com/in/taiveyonshaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taiveyon shaw" height="50" width="60" /></a>
-    <h4> Kaggle: </h4>
     <a href="https://kaggle.com/taiveyonshaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="taiveyonshaw" height="50" width="60" /></a>
-    <h4> HackerRank: </h4>
     <a href="https://www.hackerrank.com/taiveyonshaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="taiveyonshaw" height="50" width="60" /></a>
-    <h4> Leetcode: </h4>
     <a href="https://www.leetcode.com/taiveyonshaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="taiveyonshaw" height="50" width="60" /></a>
+    
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
