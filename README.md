@@ -1,7 +1,7 @@
 <h1 align="center">Hello👋! My name is Taiveyon Shaw</h1>
-<h3 align="center">I am a jr. Web Developer and a Data Scientist!</h3>
+<h3 align="center">My focus of study is on Software Development and a Data Science!</h3>
 
-- 🔭 I’m currently working on creating a **Portfolio Website.**
+- 🔭 I’m currently working on creating a **Portfolio Website** for myself.
 
 - 🌱 I’m currently learning **React, mongodb, next.js, pytorch, and neural network.**
 
@@ -9,10 +9,14 @@
 
 <h3 align="left">Profile links to other websites:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/taiveyonshaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taiveyon shaw" height="30" width="40" /></a>
-<a href="https://kaggle.com/taiveyonshaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="taiveyonshaw" height="50" width="60" /></a>
-<a href="https://www.hackerrank.com/taiveyonshaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="taiveyonshaw" height="50" width="60" /></a>
-<a href="https://www.leetcode.com/taiveyonshaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="taiveyonshaw" height="50" width="60" /></a>
+    <h4>LinkedIn:</h4>
+    <a href="https://linkedin.com/in/taiveyonshaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taiveyon shaw" height="50" width="60" /></a>
+    <h4> Kaggle: </h4>
+    <a href="https://kaggle.com/taiveyonshaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="taiveyonshaw" height="50" width="60" /></a>
+    <h4> HackerRank: </h4>
+    <a href="https://www.hackerrank.com/taiveyonshaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="taiveyonshaw" height="50" width="60" /></a>
+    <h4> Leetcode: </h4>
+    <a href="https://www.leetcode.com/taiveyonshaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="taiveyonshaw" height="50" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
