@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋! My name is Taiveyon Shaw</h1>
-<h3 align="center">My focus of study is on Software Development and a Data Science!</h3>
+<h3 align="center">My current focus of study is on Web Development and Machine Learning!</h3>
 
 - 🔭 I’m currently working on creating a **Portfolio Website** for myself.
 
