@@ -1,11 +1,11 @@
 <h1 align="center">Hello👋! My name is Taiveyon Shaw</h1>
 <h3 align="center">My current focus of study is on Web Development and Machine Learning!</h3>
 
-- 🔭 I’m currently working on creating a **Portfolio Website** for myself.
+- 🔭 I’m currently working on understanding **backpropagation** to better understand neural network and create my own model from scratch.
 
 - 🌱 I’m currently learning **React, mongodb, next.js, pytorch, and neural network.**
 
-- 📫 You can me email through: **taiveyonshaw@gmail.com or shawt6@wwu.edu**
+- 📫 You can me email through: **taiveyonshaw@gmail.com**
 
 <h3 align="left">My Socials/Profiles:</h3>
 <p align="left">
