@@ -1,5 +1,5 @@
-<h1 align="center">Hello👋! My name is Taiveyon Shaw</h1>
-<h3 align="center">My current focus of study is on Web Development and Machine Learning!</h3>
+<h1 align="center">Welcome, my name is Taiveyon Shaw</h1>
+<h3 align="center">My current focus of study is on Web Development and Machine Learning</h3>
 
 - 🔭 I’m currently working on understanding **backpropagation** to better understand neural network and create my own model from scratch.
 
