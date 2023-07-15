@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React, mongodb, next.js, pytorch, and neural network.**
 
-- 📫 You can me email through: **taiveyonshaw@gmail.com**
-
 - My personal website: https://www.taiveyonshaw.com/
 
 <h3 align="left">My Socials/Profiles:</h3>
