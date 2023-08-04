@@ -1,6 +1,5 @@
 <h1 align="center">Welcome to my profile</h1>
-
-- My personal website: https://www.taiveyonshaw.com/
+<h3 align="center">My personal website: https://www.taiveyonshaw.com/</h3>
 
 <h3 align="left">My Socials/Profiles:</h3>
 <p align="left">
