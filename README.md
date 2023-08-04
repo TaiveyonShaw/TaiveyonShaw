@@ -1,9 +1,4 @@
 <h1 align="center">Welcome to my profile</h1>
-<h3 align="center">My current focus of study is on Web Development and Machine Learning</h3>
-
-- 🔭 I’m currently working on understanding **backpropagation** to better understand neural network and create my own model from scratch.
-
-- 🌱 I’m currently learning **React, mongodb, next.js, pytorch, and neural network.**
 
 - My personal website: https://www.taiveyonshaw.com/
 
