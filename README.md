@@ -10,7 +10,7 @@
 <h3 align="center">🌱 My personal website: https://www.taiveyonshaw.com/</h3>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="center"> 
     
   <h4>Web Development:</h4>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
