@@ -1,5 +1,6 @@
 <h1 align="center">Welcome to my profile</h1>
 <h3 align="center">📫 My Socials / Profiles:</h3>
+<br>
 <p align="center">
     <a href="https://linkedin.com/in/taiveyonshaw" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="60" />LinkedIn</a>
     <a href="https://kaggle.com/taiveyonshaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="50" width="60" />Kaggle</a>
