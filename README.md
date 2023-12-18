@@ -5,6 +5,7 @@
     <a href="https://kaggle.com/taiveyonshaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="50" width="60" />Kaggle</a>
     <a href="https://www.hackerrank.com/taiveyonshaw" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="50" width="60" />HackerRank</a>
 </p>
+<br>
 <p align="center">
     <a href="https://www.leetcode.com/taiveyonshaw" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="50" width="60" />LeetCode</a>
     <a href="https://typehero.dev/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeHero" width="50" height="50"/>TypeHero</a>
