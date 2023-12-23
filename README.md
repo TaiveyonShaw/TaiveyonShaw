@@ -9,7 +9,7 @@
 <br>
 <p align="center">
     <a href="https://www.leetcode.com/taiveyonshaw" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" align="center" alt="Leetcode" height="50" width="60" />LeetCode</a>
-    <a href="[https://typehero.dev/](https://typehero.dev/@TaiveyonShaw)" target="_blank" rel="noreferrer"><img  src="img/typehero.png" align="center" alt="TypeHero" width="50" height="50"/>TypeHero</a>
+    <a href="https://typehero.dev/@TaiveyonShaw" target="_blank" rel="noreferrer"><img  src="img/typehero.png" align="center" alt="TypeHero" width="50" height="50"/>TypeHero</a>
 </p>
 <br>
 <h3 align="center">🌱 My personal website: https://www.taiveyonshaw.com/</h3>
