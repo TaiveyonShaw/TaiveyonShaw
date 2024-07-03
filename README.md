@@ -12,4 +12,4 @@
     <a href="https://typehero.dev/@TaiveyonShaw" target="_blank" rel="noreferrer"><img  src="img/typehero.png" align="center" alt="TypeHero" width="50" height="50"/>TypeHero</a>
 </p>
 <br>
-<h3 align="center">🌱 My personal website: https://www.taiveyonshaw.com/</h3>
+<h3 align="center">🌱 My personal website: https://taiveyonshaw.vercel.app/</h3>
