@@ -1,5 +1,4 @@
 <h1 align="center">Welcome to my profile</h1>
-<h3 align="center">📫 My Socials / Profiles:</h3>
 <br>
 <p align="center">
     <a href="https://linkedin.com/in/taiveyonshaw" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" align="center" height="50" width="60" />LinkedIn</a>
@@ -7,4 +6,4 @@
     <a href="https://www.leetcode.com/taiveyonshaw" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" align="center" alt="Leetcode" height="50" width="60" />LeetCode</a>
 </p>
 <br>
-<h3 align="center">🌱 My personal website: https://taiveyonshaw.vercel.app/</h3>
+<h3 align="center">https://taiveyonshaw.vercel.app/</h3>
