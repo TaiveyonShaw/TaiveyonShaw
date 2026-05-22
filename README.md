@@ -6,5 +6,5 @@
     &middot;
     <a href="https://www.leetcode.com/taiveyonshaw" target="_blank">leetcode</a>
     &middot;
-    <a href="https://taiveyonshaw.netlify.app/" target="_blank">personal website</a>
+    <a href="https://taiveyonshaw.netlify.app/" target="_blank">personal</a>
 </p>
