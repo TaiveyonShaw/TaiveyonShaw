@@ -1,10 +1,1 @@
-<h1 align="center">🌱Welcome to my profile🌱</h1>
-<p align="center">
-    <a href="https://linkedin.com/in/taiveyonshaw" target="_blank">linkedin</a>
-    &middot;
-    <a href="https://kaggle.com/taiveyonshaw" target="blank">kaggle</a>
-    &middot;
-    <a href="https://www.leetcode.com/taiveyonshaw" target="_blank">leetcode</a>
-    &middot;
-    <a href="https://taiveyonshaw.netlify.app/" target="_blank">personal</a>
-</p>
+<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/taiveyonshaw/taiveyonshaw/blob/master/nice.gif?raw=true" width="100%">
